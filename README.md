@@ -20,5 +20,8 @@ This repository is used to collect feedback from PPHub (GitHub third-party iOS c
 ## Contact:
 * Weibo: [@jkpang-庞](http://weibo.com/jkpang)
 * Email: jkpang@outlook.com
+* QQ群:   616587242
 
+ 
+[](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/PPHub_qq_group.jpg)
 
