@@ -4,7 +4,7 @@ This repository is used to collect feedback from PPHub (GitHub third-party iOS c
 
 ![](https://img.shields.io/itunes/v/1314212521.svg) ![](https://img.shields.io/badge/platform-iOS9+-orange.svg) [![](https://img.shields.io/badge/weibo-jkpang--%E5%BA%9E-red.svg)](http://weibo.com/jkpang)
 
-[![App_Store](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/Download_on_the_App_Store_135x40.svg)](https://itunes.apple.com/app/id1314212521)
+[![App_Store](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/Download_on_the_App_Store_135x40.svg)](https://itunes.apple.com/cn/app/PPHub%20For%20GitHub/id1314212521?mt=8)
 
 [![](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_s1.png)](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_b1.png)
 [![](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_s2.png)](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_b2.png)
