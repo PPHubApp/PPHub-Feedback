@@ -15,11 +15,6 @@ This repository is used to collect feedback from PPHub (GitHub third-party iOS c
 [![](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_s7.png)](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_b7.png)
 [![](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_s8.png)](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_b8.png)
 
-#### Gif
-[](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/PPHub1.gif)
-[](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/PPHub2.gif)
-[](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/PPHub3.gif)
-
 ## Contact:
 * Weibo: [@jkpang-庞](http://weibo.com/jkpang)
 * Email: jkpang@outlook.com
