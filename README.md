@@ -6,6 +6,7 @@ This repository is used to collect feedback from PPHub (GitHub third-party iOS c
 
 [![App_Store](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/Download_on_the_App_Store_135x40.svg)](https://itunes.apple.com/cn/app/PPHub%20For%20GitHub/id1314212521?mt=8)
 
+[![](PPHub-Feedback/Resource/iPhonex_s1.png)](PPHub-Feedback/Resource/iPhonex_b1.png)
 [![](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhonex_s1.png)](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhonex_b1.png)
 [![](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhonex_s2.png)](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhonex_b2.png)
 [![](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhonex_s3.png)](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhonex_b3.png)
