@@ -4,20 +4,20 @@ This repository is used to collect feedback from PPHub (GitHub third-party iOS c
 
 ![](https://img.shields.io/itunes/v/1314212521.svg) ![](https://img.shields.io/badge/platform-iOS10+-orange.svg) [![](https://img.shields.io/badge/weibo-jkpang--%E5%BA%9E-red.svg)](http://weibo.com/jkpang)
 
-[![App_Store](~/Resource/Download_on_the_App_Store_135x40.svg)](https://itunes.apple.com/cn/app/PPHub%20For%20GitHub/id1314212521?mt=8)
+[![App_Store](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/Download_on_the_App_Store_135x40.svg)](https://itunes.apple.com/cn/app/PPHub%20For%20GitHub/id1314212521?mt=8)
 
-[![](~/Resource/iPhone_s1.png)](~/Resource/iPhone_b1.png)
-[![](~/Resource/iPhone_s2.png)](~/Resource/iPhone_b2.png)
-[![](~/Resource/iPhone_s3.png)](~/Resource/iPhone_b3.png)
-[![](~/Resource/iPhone_s4.png)](~/Resource/iPhone_b4.png)
-[![](~/Resource/iPhone_s5.png)](~/Resource/iPhone_b5.png)
-[![](~/Resource/iPhone_s6.png)](~/Resource/iPhone_b6.png)
-[![](~/Resource/iPhone_s7.png)](~/Resource/iPhone_b7.png)
-[![](~/Resource/iPhone_s8.png)](~/Resource/iPhone_b8.png)
-[![](~/Resource/iPhone_s9.png)](~/Resource/iPhone_b9.png)
-[![](~/Resource/iPhone_s10.png)](~/Resource/iPhone_b10.png)
-[![](~/Resource/iPhone_s11.png)](~/Resource/iPhone_b11.png)
-[![](~/Resource/iPhone_s12.png)](~/Resource/iPhone_b12.png)
+[![](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_s1.png)](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_b1.png)
+[![](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_s2.png)](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_b2.png)
+[![](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_s3.png)](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_b3.png)
+[![](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_s4.png)](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_b4.png)
+[![](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_s5.png)](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_b5.png)
+[![](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_s6.png)](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_b6.png)
+[![](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_s7.png)](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_b7.png)
+[![](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_s8.png)](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_b8.png)
+[![](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_s9.png)](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_b9.png)
+[![](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_s10.png)](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_b10.png)
+[![](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_s11.png)](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_b11.png)
+[![](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_s12.png)](https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/iPhone_b12.png)
 
 ## Contact:
 * Weibo: [@jkpang-庞](http://weibo.com/jkpang)
@@ -25,6 +25,6 @@ This repository is used to collect feedback from PPHub (GitHub third-party iOS c
 * QQ群:   616587242
 * Telegram：https://t.me/joinchat/Jn89QxI2MWt9hgTLQQW2Gg
 
-<img src="~/Resource/PPHub_qq_group.jpg" width = "200" align=left />
+<img src="https://github.com/jkpang/PPHub-Feedback/blob/master/Resource/PPHub_qq_group.jpg" width = "200" align=left />
 
 
