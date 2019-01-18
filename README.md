@@ -6,6 +6,7 @@ This repository is used to collect feedback from PPHub (GitHub third-party iOS c
 
 [![App_Store](./Resource/Download_on_the_App_Store_135x40.svg)](https://itunes.apple.com/cn/app/PPHub%20For%20GitHub/id1314212521?mt=8)
 
+[![](./Resource/iPhonex_s1.png)](./Resource/iPhonex_b1.png)
 [![](./Resource/iPhonex_s2.png)](./Resource/iPhonex_b2.png)
 [![](./Resource/iPhonex_s3.png)](./Resource/iPhonex_b3.png)
 [![](./Resource/iPhonex_s4.png)](./Resource/iPhonex_b4.png)
@@ -21,7 +22,7 @@ This repository is used to collect feedback from PPHub (GitHub third-party iOS c
 ## Contact:
 * Weibo: [@jkpang-庞](http://weibo.com/jkpang)
 * Email: jkpang@outlook.com
-* QQ群:   616587242 <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=09ad66f2a7ede31f3867b7dd39fde2ca80ae6c1269ab1841e79ed72812850cf3"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="PPHub用户群" title="PPHub用户群"></a>
+* QQ群:   [616587242](//shang.qq.com/wpa/qunwpa?idkey=09ad66f2a7ede31f3867b7dd39fde2ca80ae6c1269ab1841e79ed72812850cf3) 
 * Telegram：https://t.me/joinchat/Jn89QxI2MWt9hgTLQQW2Gg
 
 <img src="./Resource/pphub_qq_group.jpg" width = "200" align=left />
