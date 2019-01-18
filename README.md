@@ -22,7 +22,7 @@ This repository is used to collect feedback from PPHub (GitHub third-party iOS c
 ## Contact:
 * Weibo: [@jkpang-庞](http://weibo.com/jkpang)
 * Email: jkpang@outlook.com
-* QQ 群: [616587242](//shang.qq.com/wpa/qunwpa?idkey=09ad66f2a7ede31f3867b7dd39fde2ca80ae6c1269ab1841e79ed72812850cf3) 
+* QQ群:  [616587242](//shang.qq.com/wpa/qunwpa?idkey=09ad66f2a7ede31f3867b7dd39fde2ca80ae6c1269ab1841e79ed72812850cf3) 
 * Telegram：https://t.me/joinchat/Jn89QxI2MWt9hgTLQQW2Gg
 
 <img src="./Resource/pphub_qq_group.jpg" width = "200" align=left />
