@@ -1,6 +1,6 @@
 # PPHub For GitHub
-This repository is used to collect feedback from PPHub (GitHub third-party iOS client)   
-这个仓库用于收集PPHub(GitHub第三方iOS客户端)的反馈信息
+This repository is used to collect user feedback from PPHub (GitHub third-party client)   
+此仓库用于收集PPHub(GitHub第三方客户端)的用户反馈信息
 
 ![](https://img.shields.io/itunes/v/1314212521.svg) ![](https://img.shields.io/badge/platform-iOS10+-orange.svg) [![](https://img.shields.io/badge/weibo-jkpang--%E5%BA%9E-red.svg)](http://weibo.com/jkpang)
 
