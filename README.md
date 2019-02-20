@@ -1,6 +1,6 @@
 # PPHub For GitHub
-This repository is used to collect user feedback from PPHub (GitHub third-party client)   
-此仓库用于收集PPHub(GitHub第三方客户端)的用户反馈信息
+A simple and beautiful GitHub client
+一个简洁漂亮的GitHub客户端
 
 ![](https://img.shields.io/itunes/v/1314212521.svg) ![](https://img.shields.io/badge/platform-iOS10+-orange.svg) [![](https://img.shields.io/badge/weibo-jkpang--%E5%BA%9E-red.svg)](http://weibo.com/jkpang)
 
@@ -20,12 +20,9 @@ This repository is used to collect user feedback from PPHub (GitHub third-party 
 [![](./Resource/iPhonex_s12.png)](./Resource/iPhonex_b12.png)
 
 ## Contact:
-* Weibo: [@jkpang-庞](http://weibo.com/jkpang)
-* Email: jkpang@outlook.com
-* QQ群:  [616587242](//shang.qq.com/wpa/qunwpa?idkey=09ad66f2a7ede31f3867b7dd39fde2ca80ae6c1269ab1841e79ed72812850cf3) 
+* Weibo：[@jkpang-庞](http://weibo.com/jkpang)
+* Email：jkpang@outlook.com
+* QQ群：[616587242](//shang.qq.com/wpa/qunwpa?idkey=09ad66f2a7ede31f3867b7dd39fde2ca80ae6c1269ab1841e79ed72812850cf3) 
 * Telegram：[PPHub For GitHub](https://t.me/joinchat/Jn89QxI2MWt9hgTLQQW2Gg)
-
-
-<img src="https://raw.githubusercontent.com/PPHubApp/PPHub-Feedback/master/Resource/pphub_qq_group.jpg" width="200" alt="AltText" />
 
 
