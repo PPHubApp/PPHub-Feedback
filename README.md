@@ -25,6 +25,7 @@ This repository is used to collect user feedback from PPHub (GitHub third-party 
 * QQ群:  [616587242](//shang.qq.com/wpa/qunwpa?idkey=09ad66f2a7ede31f3867b7dd39fde2ca80ae6c1269ab1841e79ed72812850cf3) 
 * Telegram：[PPHub For GitHub](https://t.me/joinchat/Jn89QxI2MWt9hgTLQQW2Gg)
 
-<img src="https://raw.githubusercontent.com/PPHubApp/PPHub-Feedback/master/Resource/pphub_qq_group.jpg" width = "200" align=left />
+
+<img src="https://raw.githubusercontent.com/PPHubApp/PPHub-Feedback/master/Resource/pphub_qq_group.jpg" width="200" alt="AltText" />
 
 
