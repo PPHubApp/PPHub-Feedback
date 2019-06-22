@@ -1,6 +1,6 @@
 # PPHub For GitHub
-A simple and beautiful GitHub client
-一个简洁漂亮的GitHub客户端
+Awesome GitHub Client   
+简洁实用的GitHub客户端
 
 ![](https://img.shields.io/itunes/v/1314212521.svg) ![](https://img.shields.io/badge/platform-iOS10+-orange.svg) [![](https://img.shields.io/badge/weibo-jkpang--%E5%BA%9E-red.svg)](http://weibo.com/jkpang)
 
