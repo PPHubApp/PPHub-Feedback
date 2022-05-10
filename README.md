@@ -2,7 +2,7 @@
 This repository is used to collect user feedback from PPHub (GitHub third-party client)   
 此仓库用于收集PPHub(GitHub第三方客户端)的用户反馈信息
 
-[![](https://img.shields.io/itunes/v/1314212521.svg?label=App%20Store&colorA=0576FF&colorB=0576FF)](https://apps.apple.com/cn/app/id1314212521) ![](https://img.shields.io/badge/platform-iOS11+-orange.svg) [![](https://img.shields.io/badge/weibo-jkpang--%E5%BA%9E-red.svg)](http://weibo.com/jkpang)
+[![](https://img.shields.io/itunes/v/1314212521.svg?label=App%20Store&colorA=0576FF&colorB=0576FF)](https://apps.apple.com/cn/app/id1314212521) ![](https://img.shields.io/badge/platform-iOS13+-orange.svg) [![](https://img.shields.io/badge/weibo-jkpang--%E5%BA%9E-red.svg)](http://weibo.com/jkpang)
 
 [![App_Store](./Resource/Download_on_the_App_Store_135x40.svg)](https://apps.apple.com/cn/app/id1314212521)
 
