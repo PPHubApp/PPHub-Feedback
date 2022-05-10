@@ -15,15 +15,11 @@ This repository is used to collect user feedback from PPHub (GitHub third-party 
 [![](./Resource/iPhonex_s7.png)](./Resource/iPhonex_b7.png)
 [![](./Resource/iPhonex_s8.png)](./Resource/iPhonex_b8.png)
 [![](./Resource/iPhonex_s9.png)](./Resource/iPhonex_b9.png)
-[![](./Resource/iPhonex_s10.png)](./Resource/iPhonex_b10.png)
-[![](./Resource/iPhonex_s11.png)](./Resource/iPhonex_b11.png)
-[![](./Resource/iPhonex_s12.png)](./Resource/iPhonex_b12.png)
 
 ## Contact:
 * Weibo: [@jkpang-庞](http://weibo.com/jkpang)
 * Email: jkpang@outlook.com
 * QQ群:  [616587242](//shang.qq.com/wpa/qunwpa?idkey=09ad66f2a7ede31f3867b7dd39fde2ca80ae6c1269ab1841e79ed72812850cf3) 
-* Telegram：[PPHub For GitHub](https://t.me/joinchat/Jn89QxI2MWt9hgTLQQW2Gg)
 
 
 <img src="https://raw.githubusercontent.com/PPHubApp/PPHub-Feedback/master/Resource/pphub_qq_group.jpg" width="200" alt="AltText" />
